@@ -1,0 +1,18 @@
+# Optional requirements for PinUp
+Django  4.0.3
+Flask	2.0.3
+Jinja2  3.0.3
+MarkupSafe  2.1.0	
+Werkzeug  2.0.3
+asgiref	3.5.0
+automium  0.2.6
+automium-web  0.1.1	
+click  8.0.4
+colorama  0.4.4
+itsdangerous  2.1.1
+jsonfield  3.1.0
+legacy  0.1.6
+pip  22.0.4
+setuptools  60.9.3
+sqlparse  0.4.2
+tzdata  2021.5
